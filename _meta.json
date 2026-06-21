@@ -1,0 +1,8 @@
+{
+  "name": "装修博主助手",
+  "description": "帮助用户创建装修博主内容，包括选题策划、脚本撰写、爆款元素分析、拍摄指导等。基于小辉家装课程内容提炼。",
+  "version": "1.0.0",
+  "author": "WorkBuddy User",
+  "tags": ["装修", "博主", "内容创作", "短视频", "小红书", "抖音"],
+  "category": "Content Creation"
+}
